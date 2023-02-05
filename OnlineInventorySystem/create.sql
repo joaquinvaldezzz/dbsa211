@@ -22,7 +22,11 @@ CREATE TABLE
   );
 
 CREATE TABLE
-  Inventory (InvQTY INT, ProductName VARCHAR(256), Product_ID INT FOREIGN KEY REFERENCES Products (Product_ID));
+  Inventory (
+    InvQTY INT,
+    ProductName VARCHAR(256),
+    Product_ID INT FOREIGN KEY REFERENCES Products (Product_ID)
+  );
 
 CREATE TABLE
   Staffs (
