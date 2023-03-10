@@ -9,12 +9,6 @@
         "keywordCase": "upper",
         "expressionWidth": 80
       }
-    },
-    {
-      "files": "*.min.sql",
-      "options": {
-        "expressionWidth": 9999
-      }
     }
   ]
 }
