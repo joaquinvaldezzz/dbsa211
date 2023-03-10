@@ -5,7 +5,7 @@
 1. Clone or [download](https://github.com/joaquinvaldezzz/imgt212/archive/refs/heads/main.zip) the repository
 
    ```bash
-   git clone https://github.com/joaquinvaldezzz/imgt212.git
+   git clone https://github.com/joaquinvaldezzz/dbsa211.git
    ```
 
 2. Go to the project directory
